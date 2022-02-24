@@ -15,7 +15,7 @@ class App extends Component {
     }
 
     loginFailure = (res) => {
-        alert('Login Failure')
+        //alert('Login Failure')
 
     }
 
